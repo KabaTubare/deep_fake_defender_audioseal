@@ -1,4 +1,4 @@
-**Deep Fake Defender by AudioSeal: Proactive Voice Cloning Detection and Watermarking**
+**Deep Fake Defender AudioSeal by META: Proactive Voice Cloning Detection and Watermarking**
 
 **Overview**
 
